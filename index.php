@@ -28,65 +28,29 @@
             <section id="maps">
                 <div id="googlemaps-tab">
                     <ul>
-                        <li><a href="#googlemaps-tab1" id="2m">2 Meter</a></li>
-                        <li><a href="#googlemaps-tab2" id="70">70CM</a></li>
-                        <li><a href="#googlemaps-tab3" id="inter">Intertie</a></li>
-                        <li><a href="#googlemaps-tab4" id="sdarc">SDARC Sinbad</a></li>
-                        <li><a href="#googlemaps-tab5" id="1m">1.25CM</a></li>
-                        <li><a href="#googlemaps-tab6" id="6m">6 Meter</a></li>
-                        <li><a href="#googlemaps-tab7" id="23">23CM</a></li>
-                        <li><a href="#googlemaps-tab8" id="33">33CM</a></li>
+                        <li><a href="#googlemaps-tab1" id="2M">2 Meter</a></li>
+                        <li><a href="#googlemaps-tab2" id="70CM">70CM</a></li>
+                        <li><a href="#googlemaps-tab3" id="INTER">Intertie</a></li>
+                        <li><a href="#googlemaps-tab4" id="SDARC">SDARC Sinbad</a></li>
+                        <li><a href="#googlemaps-tab5" id="1-25M">1.25CM</a></li>
+                        <li><a href="#googlemaps-tab6" id="6M">6 Meter</a></li>
+                        <li><a href="#googlemaps-tab7" id="23CM">23CM</a></li>
+                        <li><a href="#googlemaps-tab8" id="33CM">33CM</a></li>
                     </ul>
-                    <div id="googlemaps-tab1" class="map-div">
-                        <p><i>More info to come...</i></p>
-                    <iframe
-                        class="map-iframe"
-                        frameborder="0" style="border:0"
-                        src="https://mapsengine.google.com/map/embed?&mid=zaXaLzxN782g.kbY2MagcIIIY">
-                    </iframe>
+                    <div id="googlemaps-tab1" class="map-div">&nbsp;</div>
+                    <div id="googlemaps-tab2" class="map-div">&nbsp;</div>
+                    <div id="googlemaps-tab3" class="map-div"></div>
+                    <div id="googlemaps-tab4" class="map-div"></div>
+                    <div id="googlemaps-tab5" class="map-div"></div>
+                    <div id="googlemaps-tab6" class="map-div"></div>
+                    <div id="googlemaps-tab7" class="map-div"></div>
+                    <div id="googlemaps-tab8" class="map-div"></div>
                 </div>
-                <div id="googlemaps-tab2" class="map-div">
-                    <p><i>More info to come...</i></p>
-                    <iframe
-                    class="map-iframe"
-                    frameborder="0" style="border:0"
-                    src="https://mapsengine.google.com/map/embed?&mid=zaXaLzxN782g.khafwLa9JIfU">
-                </iframe>
-            </div>
-            <div id="googlemaps-tab3" class="map-div">
-                <p><i>More info to come...</i></p>
-                <iframe
-                class="map-iframe"
-                frameborder="0" style="border:0"
-                src="https://mapsengine.google.com/map/embed?&mid=zaXaLzxN782g.kuFTu3PJ38jI">
-            </iframe>
+            </section>
+            <article>
+                <p>This site is privately owned and operated. This site has no affiliation with any groups.</p>
+            </article>
+            <div class="float-clear"></div>
         </div>
-        <div id="googlemaps-tab4" class="map-div">
-            <p><i>More info to come...</i></p>
-            <iframe
-            class="map-iframe"
-            frameborder="0" style="border:0"
-            src="https://mapsengine.google.com/map/embed?&mid=zaXaLzxN782g.kMD-d26hLMwk">
-        </iframe>
-    </div>
-    <div id="googlemaps-tab5" class="map-div">
-        <p>Coming soon.</p>
-    </div>
-    <div id="googlemaps-tab6" class="map-div">
-        <p>Coming soon.</p>
-    </div>
-    <div id="googlemaps-tab7" class="map-div">
-        <p>Coming soon.</p>
-    </div>
-    <div id="googlemaps-tab8" class="map-div">
-        <p>Coming soon.</p>
-    </div>
-    </div>
-    <section>
-        <article>
-            <p>This site is privately owned and operated. This site has no affiliation with any groups.</p>
-        </article>
-        <div class="float-clear"></div>
-    </div>
     </body>
 </html>
