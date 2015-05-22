@@ -52,5 +52,6 @@
             </article>
             <div class="float-clear"></div>
         </div>
+        <?php include("googleanalyticsjavascript.php"); ?>
     </body>
 </html>
