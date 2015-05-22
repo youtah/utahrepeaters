@@ -32,7 +32,7 @@
                         <li><a href="#googlemaps-tab2" id="70CM">70CM</a></li>
                         <li><a href="#googlemaps-tab3" id="INTER">Intertie</a></li>
                         <li><a href="#googlemaps-tab4" id="SDARC">SDARC Sinbad</a></li>
-                        <li><a href="#googlemaps-tab5" id="1-25M">1.25CM</a></li>
+                        <li><a href="#googlemaps-tab5" id="1-25M">1.25 Meter</a></li>
                         <li><a href="#googlemaps-tab6" id="6M">6 Meter</a></li>
                         <li><a href="#googlemaps-tab7" id="23CM">23CM</a></li>
                         <li><a href="#googlemaps-tab8" id="33CM">33CM</a></li>
